@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](#)
 <h1 align="center">Hi 👋, I'm Yash Zariya</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXh3enJ5cTM3ZXk4bTd2bjJueTVmcXl5cXJ4OWw0em5oYmdrcHp6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
@@ -13,7 +13,9 @@
 - 💬 Ask me about **Android , MEARN**
 
 - 👯 I’m looking to collaborate on **Airwave push to talk**
-
+  
+- 📫 How to reach me: yashzariya.offical@gmail.com
+  
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
