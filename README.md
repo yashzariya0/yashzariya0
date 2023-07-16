@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Android , MEARN**
 
-- 👯 I’m looking to collaborate on **Airwave push to talk**
+- 👯 I’m contributor on **Airwave push to talk**
   
 - 📫 How to reach me: yashzariya.offical@gmail.com
   
